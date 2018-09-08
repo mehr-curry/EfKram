@@ -18,15 +18,10 @@ namespace EfKramTests
         public void Test1()
         {
             var context = Fixture.Host.GetExport<IMyDbContext>();
-//            var context = new MyDbContext();
             var obj = new TestObject();
             context.Add(obj);
             context.SaveChanges();
             
-//            context.Dispose();
-//            
-//            context = new MyDbContext();
-//            
             Assert.True(context.TestObjects.Count() == 1);
         }
     }

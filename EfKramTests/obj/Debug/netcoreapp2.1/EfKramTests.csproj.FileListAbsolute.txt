@@ -1,0 +1,17 @@
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKramTests.deps.json
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKramTests.runtimeconfig.json
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKramTests.runtimeconfig.dev.json
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKramTests.dll
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKramTests.pdb
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKram.dll
+/home/merc/source/EfKram/EfKramTests/bin/Debug/netcoreapp2.1/EfKram.pdb
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.csprojAssemblyReference.cache
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.csproj.CoreCompileInputs.cache
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.AssemblyInfoInputs.cache
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.AssemblyInfo.cs
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.csproj.CopyComplete
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.dll
+/home/merc/source/EfKram/EfKramTests/obj/Debug/netcoreapp2.1/EfKramTests.pdb
